@@ -7,20 +7,20 @@ My life mantra is "information is power", therefore, when it comes to daily busi
 I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use R, SQL,  Python, and Excel for my projects.
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for team that I can dedicate to
+- 👯 I’m looking for teams that I can dedicate to
 - 🥅 2022 Goals: Get PCPP1 by the end of this year
 - ⚡ Fun fact: I love to travel and sing
 - 😻 Check out the projects I created
 
-<a href = "https://www.linkedin.com/in/charlotte-trinh-85162716b"><img align="left" alt = "Chartrnh | LinkedIn" width="22px" src = "https://user-images.githubusercontent.com/108549500/194790331-a19e752f-c10d-452a-a1e5-80f999ce4ec0.jpg" /> [LinkedIn] 
-[<img align="left" alt = "Chartrnh | Instagram" width="22px" src = "https://user-images.githubusercontent.com/108549500/194790449-530b24a8-6c1c-49dc-94a8-d9a53ddb0a72.png" />] [Instagram]
+## Let's Connect 💬
 
+<a href = "https://www.linkedin.com/in/charlotte-trinh-85162716b">
+  <img align="left" alt = "Chartrnh | LinkedIn" width="22px" src = "https://user-images.githubusercontent.com/108549500/194794428-672c01e5-d2dd-41d0-aad7-a1f0281d5a42.png" />  
+<a href = "[https://www.linkedin.com/in/charlotte-trinh-85162716b](https://www.instagram.com/_charlotte.0911_ )">
+  <img align="left" alt = "Chartrnh | Instagram" width="22px" src = "https://user-images.githubusercontent.com/108549500/194790449-530b24a8-6c1c-49dc-94a8-d9a53ddb0a72.png" /> 
 <br />
-[LinkedIn] : https://www.linkedin.com/in/charlotte-trinh-85162716b
-
-[Instagram] : https://www.instagram.com/_charlotte.0911_ 
-
-
+  
+  
 
 
 <!--
