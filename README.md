@@ -12,7 +12,7 @@ I am experienced in machine learning, supervised and unsupervised algorithms and
 - ⚡ Fun fact: I love to travel and sing
 - 😻 Check out the projects I created
 
-[<img align="left" alt = "Chartrnh | LinkedIn" width="22px" src = "https://user-images.githubusercontent.com/108549500/194790331-a19e752f-c10d-452a-a1e5-80f999ce4ec0.jpg" />] [LinkedIn] 
+<a href = "https://www.linkedin.com/in/charlotte-trinh-85162716b"><img align="left" alt = "Chartrnh | LinkedIn" width="22px" src = "https://user-images.githubusercontent.com/108549500/194790331-a19e752f-c10d-452a-a1e5-80f999ce4ec0.jpg" /> [LinkedIn] 
 [<img align="left" alt = "Chartrnh | Instagram" width="22px" src = "https://user-images.githubusercontent.com/108549500/194790449-530b24a8-6c1c-49dc-94a8-d9a53ddb0a72.png" />] [Instagram]
 
 <br />
